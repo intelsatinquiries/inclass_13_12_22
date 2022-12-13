@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+// Initial
+
 int main(void) {
-  printf("Hello World\n");
+  printf("Initial.\n");
   return 0;
 }
